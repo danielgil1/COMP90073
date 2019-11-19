@@ -1,4 +1,4 @@
-# Detecting cyberattacks in network traffic data
+# Detecting cyberattacks in network traffic data
 
 
 Note: The results are shown in notebook sa.ipynb and can be seen without running the code. 
